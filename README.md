@@ -2,6 +2,7 @@
 
 Tensorflow-2 implementation of face mask classification. 
 Given an image of a face, the code can classify if the face is with-mask or without-mask.
+
 ![Sample image info](./readme_images/samples_from_dataset.png)
 
 For training, we split the dataset into train,validation, test with 80%, 10%, 10% ratio, respectively.
