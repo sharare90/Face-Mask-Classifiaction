@@ -34,14 +34,10 @@ Please cite this paper:
 ```
 @inproceedings{Zehtabian-2020-ICAT-EGVE,
    author = "S. Zehtabian and S. Khodadadeh and K. Kim and G. Bruder and G. F. Welch and L. B{\"o}l{\"o}ni and D. Turgut",
-   
    title = "An Automated Virtual Receptionist for Recognizing Visitors and Assuring Mask Wearing",
    booktitle = "International Conference on Artificial Reality and Telexistence / Eurographics Symposium on Virtual Environmnents (ICAT-EGVE-2020)",
-   
    year = "2020",
-   
    month = "December",
-   
    abstract = {
     Virtual receptionists have long been a desire for many circumstances in general. The specific circumstances associated with COVID-19 offer additional     motivations for virtual receptionists, in particular associated with visitor and employee safety.
     In this poster, we present our prototype of a virtual receptionist that employs computer vision and meta-learning techniques to identify and interact with a visitor in a manner similar to that of a human receptionist.
