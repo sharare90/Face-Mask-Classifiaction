@@ -31,5 +31,6 @@ Then you can run `main.py` to train, test and demo the results.
 
 ## Citation
 Please cite this paper:
+
 S. Zehtabian, S. Khodadadeh, K. Kim, G. Bruder, G. F. Welch, L. Bölöni, and D. Turgut. An Automated Virtual Receptionist for Recognizing Visitors and Assuring Mask Wearing. In International Conference on Artificial Reality and Telexistence / Eurographics Symposium on Virtual Environmnents (ICAT-EGVE-2020), December 2020. 
 
